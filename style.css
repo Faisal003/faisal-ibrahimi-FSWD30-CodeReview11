@@ -1,0 +1,54 @@
+body{
+	background-image: url('');
+	background-size: 100% auto;
+	margin-top: 1px;
+	
+}
+header{
+	background-color: url('')
+	min-height: 50px;
+	height: 200px;
+	padding-top: 10px;
+	padding-left: 10%;
+	margin-bottom: 2px;
+}
+#hero{
+	background-image: url('https://pt.best-wallpaper.net/wallpaper/m/1704/Chevrolet-Camaro-black-car-front-view-angel-eyes_m.jpg');
+	background-size: 100%;
+	min-height: 590px;
+	height: auto;
+	width: 100%;
+	margin-top: 1px;
+	background-repeat: no-repeat;
+}
+.col-4{
+	text-align: center;
+	margin-top: 2%;
+}
+img{
+	height: 200px;
+
+}
+#special{
+	width: 100%;
+	height: auto;	
+}
+.box{
+	background-color: #D6EEEE;
+	margin: 5px;
+	padding: 5px;
+	padding-top: 20px;
+	color: black;
+	min-height: 450px;
+	border-radius: 20px;
+}
+
+table{
+	margin-top: 20px;
+}
+th{
+	background-color: #eee;
+}
+td{
+	background-color: #eee;
+}
